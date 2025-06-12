@@ -3,7 +3,7 @@ title: "Amazon Q CLI を用いてゲーム作成に挑戦してみた"
 emoji: "⚔️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AWS, AmazonQ, Python, pygames]
-published: false
+published: true
 ---
 
 ## はじめに
